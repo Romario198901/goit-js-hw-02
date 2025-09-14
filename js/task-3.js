@@ -9,6 +9,7 @@ function checkForSpam(message) {
   }
 }
 console.log(checkForSpam("Latest technology news"));
+console.log(checkForSpam("JavaScript weekly newsletter"));
 console.log(checkForSpam("Get best sale offers now!"));
 console.log(checkForSpam("Amazing SalE, only tonight!"));
 console.log(checkForSpam("Trust me, this is not a spam message"));
